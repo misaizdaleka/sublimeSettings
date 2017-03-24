@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Angular2 HTML Syntax",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"JavaScript Refactor",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSHint",
+		"JSHint Gutter",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"LoremIpsum",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-tslint",
+		"Theme - Flatland",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}

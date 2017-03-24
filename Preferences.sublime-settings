@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.js.map",
+		"src/**/*.js"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"jQuery",
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true",
+	"binary_file_patterns": ["node_modules/*"]
+}
